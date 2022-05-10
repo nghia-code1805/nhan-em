@@ -1,0 +1,88 @@
+{
+  "_from": "ngx-export-as",
+  "_id": "ngx-export-as@1.13.0",
+  "_inBundle": false,
+  "_integrity": "sha512-02Mz0Ykb6GymGIfdHxL8oAhsai5tFxqiD3G37i+acz65oTpcskOr9B4r0MdByoyYYGag6StwHV7y40yLJZS0Pg==",
+  "_location": "/ngx-export-as",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "ngx-export-as",
+    "name": "ngx-export-as",
+    "escapedName": "ngx-export-as",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ngx-export-as/-/ngx-export-as-1.13.0.tgz",
+  "_shasum": "f2871e5b20a218d6ad3626c7baad1db413b38311",
+  "_spec": "ngx-export-as",
+  "_where": "D:\\nghiant\\em-nhan",
+  "author": {
+    "name": "Wassem Nabil",
+    "email": "w.nabil@orangestudio.com",
+    "url": "http://arabianlolers.com"
+  },
+  "bugs": {
+    "url": "https://github.com/wnabil/ngx-export-as/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "html-to-docx": "^1.2.4",
+    "html2pdf.js": "^0.10.1",
+    "rxjs": "~7.4.0",
+    "tslib": "^2.3.1",
+    "xlsx": "^0.17.4"
+  },
+  "deprecated": false,
+  "description": "[![npm version](https://badge.fury.io/js/ngx-export-as.svg)](https://badge.fury.io/js/ngx-export-as)",
+  "es2020": "fesm2020/ngx-export-as.mjs",
+  "esm2020": "esm2020/ngx-export-as.mjs",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./ngx-export-as.d.ts",
+      "esm2020": "./esm2020/ngx-export-as.mjs",
+      "es2020": "./fesm2020/ngx-export-as.mjs",
+      "es2015": "./fesm2015/ngx-export-as.mjs",
+      "node": "./fesm2015/ngx-export-as.mjs",
+      "default": "./fesm2020/ngx-export-as.mjs"
+    }
+  },
+  "fesm2015": "fesm2015/ngx-export-as.mjs",
+  "fesm2020": "fesm2020/ngx-export-as.mjs",
+  "homepage": "https://github.com/wnabil/ngx-export-as#readme",
+  "keywords": [
+    "angular",
+    "export",
+    "pdf",
+    "typescript",
+    "ng",
+    "ngx",
+    "xls",
+    "xlsx",
+    "csv"
+  ],
+  "license": "MIT",
+  "module": "fesm2015/ngx-export-as.mjs",
+  "name": "ngx-export-as",
+  "peerDependencies": {
+    "@angular/common": "^13.0.2",
+    "@angular/core": "^13.0.2"
+  },
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wnabil/ngx-export-as.git"
+  },
+  "sideEffects": false,
+  "typings": "ngx-export-as.d.ts",
+  "version": "1.13.0"
+}
